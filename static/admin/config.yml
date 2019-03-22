@@ -1,11 +1,10 @@
 backend:
   # Choose the backend you prefer (GitHub, GitLab, BitBucket)
   # Reference: https://www.netlifycms.org/docs/authentication-backends/
-  name: test-repo
-  repo: none
-  # name: github
-  # branch: master
-  # repo: mittalyashu/gridsome-starter-netlifycms
+  name: gridsome-test
+  name: github
+  branch: master
+  repo: cyoharry/gridsome-test
 
 media_folder: "static/images"
 public_folder: "static/images"
