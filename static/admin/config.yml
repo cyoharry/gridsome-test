@@ -1,9 +1,6 @@
 backend:
   name: github
-  branch: master
   repo: cyoharry/gridsome-test
-  base_url: https://api.netlify.com
-  site_domain: tender-ramanujan-49378e.netlify.com
 
 media_folder: "static/images"
 public_folder: "static/images"
