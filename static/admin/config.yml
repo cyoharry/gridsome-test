@@ -1,7 +1,4 @@
 backend:
-  # Choose the backend you prefer (GitHub, GitLab, BitBucket)
-  # Reference: https://www.netlifycms.org/docs/authentication-backends/
-  name: gridsome-test
   name: github
   branch: master
   repo: cyoharry/gridsome-test
